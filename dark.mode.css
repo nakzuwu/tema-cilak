@@ -718,7 +718,7 @@ span:not(.spinner-item) {
   --cl-appearance: "Dark";
 }
 #app-mount .info__755e1 .line__75801:last-child:after {
-  content: "Chillax " var(--cl-appearance) " 🎮";
+  content: "Roshidere " var(--cl-appearance) " 🎮";
   display: block;
 }
 /*custom bd window edit*/
